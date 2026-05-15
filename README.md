@@ -29,6 +29,10 @@ XImage 把重点留给图片本身。界面简洁清爽，不堆叠复杂功能�
 ## 一句话介绍
 XImage 是一款为大图浏览而设计的轻量影像查看器，让你更快打开图片，更顺畅查看细节，更方便调整画面效果。
 
+官网：
+[https://ruiduobao.cn/products](https://ruiduobao.cn/products)
+
+
 QQ群：858896379
 
 <!-- 这是一张图片，ocr 内容为： -->
